@@ -1,0 +1,42 @@
+.footer__itom{
+// background-color: aqua;
+width: 255px;
+height: 191px;
+align-items: center;
+text-align: center
+}
+
+.footer__info{
+margin-top: 60px;
+display: flex;
+justify-content: center;
+gap: 30px;
+}
+
+.footer__info h2{
+font-size: 20px;
+color: black;
+
+}
+
+.footer__itom p{
+color: grey;
+
+}
+
+.footer__contackt h2{
+display: flex;
+justify-content: center;
+// margin-top: 100px;
+// margin-bottom: 60px;
+}
+
+.footer__contackt{
+margin-top: 100px;
+}
+
+.footer__itom img{
+color: orange;
+width: 30px;
+height: 30px;
+}

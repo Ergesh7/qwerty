@@ -1,0 +1,43 @@
+.project__itom{
+
+    width: 230px;
+    height: 600px;
+    margin-top: 40px;
+    
+// background-color: bisque;
+}
+
+.red__line{
+background-color: red;
+width: 55px;
+height: 6px;
+}
+
+.project__itom p{
+color: grey;
+}
+
+.project__section{
+display: flex;
+// justify-content: space-around;
+// background-color: aqua;
+gap: 50px;
+width: 100px;
+margin-left: 320px;
+
+}
+
+.project__itom img{
+    width: 250px;
+
+ }
+
+ .big__project h2{
+margin-top: 100px;
+display: flex;
+justify-content: center;
+}
+
+.about{
+margin-bottom: 150px;
+}
